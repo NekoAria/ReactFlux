@@ -68,6 +68,7 @@
     "check": "查看",
     "dismiss": "关闭",
     "copy_to_clipboard_tooltip": "复制到剪贴板",
+    "code_language": "代码语言",
     "copied": "已复制！",
     "copy_failed": "复制失败，请稍后再试",
     "mark_as_read_error": "标记为已读失败，请稍后再试",
@@ -101,6 +102,7 @@
     "star_tooltip": "收藏",
     "unstar_tooltip": "取消收藏",
     "fetch_original_tooltip": "获取原文",
+    "more_actions_tooltip": "更多操作",
     "save_to_third_party_services_tooltip": "保存到第三方服务",
     "share_tooltip": "分享",
     "view_comments_tooltip": "查看评论"
@@ -119,7 +121,8 @@
   },
   "article_toc": {
     "tooltip": "目录大纲",
-    "filter_headings": "筛选标题"
+    "filter_headings": "筛选标题",
+    "back_to_actions": "返回更多操作"
   },
   "article_attachments": {
     "title": "附件 (%{count})",
@@ -137,6 +140,7 @@
   },
   "search": {
     "search": "搜索",
+    "syntax_help": "搜索语法帮助",
     "confirm": "确定",
     "cancel": "取消",
     "placeholder": "搜索...",

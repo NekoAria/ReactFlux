@@ -68,6 +68,7 @@
     "check": "Vérifier",
     "dismiss": "Ignorer",
     "copy_to_clipboard_tooltip": "Copier dans le presse-papiers",
+    "code_language": "Langage du code",
     "copied": "Copié !",
     "copy_failed": "Erreur lors de la copie, veuillez réessayer plus tard",
     "mark_as_read_error": "Impossible de marquer comme lu, veuillez réessayer plus tard",
@@ -101,6 +102,7 @@
     "star_tooltip": "Marquer comme favori",
     "unstar_tooltip": "Démarquer comme favori",
     "fetch_original_tooltip": "Récupérer le contenu original",
+    "more_actions_tooltip": "Plus d’actions",
     "save_to_third_party_services_tooltip": "Sauvegarder dans les services tiers",
     "share_tooltip": "Partager",
     "view_comments_tooltip": "Voir les commentaires"
@@ -119,7 +121,8 @@
   },
   "article_toc": {
     "tooltip": "Table des matières",
-    "filter_headings": "Filtrer les titres"
+    "filter_headings": "Filtrer les titres",
+    "back_to_actions": "Retour aux autres actions"
   },
   "article_attachments": {
     "title": "Pièces jointes (%{count})",
@@ -137,6 +140,7 @@
   },
   "search": {
     "search": "Rechercher",
+    "syntax_help": "Aide sur la syntaxe de recherche",
     "confirm": "Confirmer",
     "cancel": "Annuler",
     "placeholder": "Rechercher...",

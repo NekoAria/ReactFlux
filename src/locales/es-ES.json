@@ -68,6 +68,7 @@
     "check": "Comprobar",
     "dismiss": "Descartar",
     "copy_to_clipboard_tooltip": "Copiar al portapapeles",
+    "code_language": "Lenguaje del código",
     "copied": "Copiado!",
     "copy_failed": "Error al copiar, por favor intente de nuevo más tarde",
     "mark_as_read_error": "Error al marcar como leído, por favor intente de nuevo más tarde",
@@ -101,6 +102,7 @@
     "star_tooltip": "Marcar como favorito",
     "unstar_tooltip": "Desmarcar como favorito",
     "fetch_original_tooltip": "Obtener contenido original",
+    "more_actions_tooltip": "Más acciones",
     "save_to_third_party_services_tooltip": "Guardar en servicios de terceros",
     "share_tooltip": "Compartir",
     "view_comments_tooltip": "Ver comentarios"
@@ -119,7 +121,8 @@
   },
   "article_toc": {
     "tooltip": "Tabla de contenidos",
-    "filter_headings": "Filtrar títulos"
+    "filter_headings": "Filtrar títulos",
+    "back_to_actions": "Volver a más acciones"
   },
   "article_attachments": {
     "title": "Archivos adjuntos (%{count})",
@@ -137,6 +140,7 @@
   },
   "search": {
     "search": "Buscar",
+    "syntax_help": "Ayuda sobre la sintaxis de búsqueda",
     "confirm": "Confirmar",
     "cancel": "Cancelar",
     "placeholder": "Buscar...",
