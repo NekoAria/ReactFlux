@@ -300,7 +300,7 @@ const FeedMenuItem = ({ feed, onEditFeed, onRefreshFeed, onMarkAllAsRead, onDele
     >
       <MenuItem
         key={`/feed/${feed.id}`}
-        className={classNames({ "arco-menu-selected": isSelected })}
+        className={classNames("feed-menu-item", { "arco-menu-selected": isSelected })}
         style={{ position: "relative", overflow: "hidden" }}
         onClick={(e) => {
           e.stopPropagation()
